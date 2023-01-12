@@ -6,7 +6,7 @@ public class squaretest1 {
 
 	void test() {
 		unittesting obj=new unittesting();
-		int output=obj.countA("TOOBA");
+		int output=obj.countA("Aqsa");
 		assertEquals(1, output);
 	}
 }
